@@ -1,0 +1,344 @@
+ /* Extra large devices  */
+@media (min-width: 1200px) { 
+    #counterPart {
+        padding: 0;
+    }
+}
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+    .bannerOverly {
+        padding-top: 200px;
+    }
+    .bannerText p {
+        padding: 0 100px;
+    }
+    #counterPart {
+        padding: 100px 0;
+    }
+    .counterLeft h3 {
+        padding-right: 10px;
+    }
+    #servicePart {
+        padding: 0;
+    }
+    .serviceText h3 {
+        line-height: 44px;
+    }
+    .serviceItem h3 {
+        font-size: 22px;
+    }
+    .serviceItem {
+        margin-bottom: 30px;
+    }
+    .agencText h3 {
+        padding: 0 100px;
+    }
+    .agencRightImg img {
+        margin-top: 100px;
+    }
+    .reviewText p {
+        font-size: 15px;
+    }
+    .formBtn a {
+        padding: 10px 0;
+        text-align: center;
+    }
+}
+/* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .navbar-toggler i{
+    color: #ffffff;
+    font-size: 30px;
+ }
+ .bannerOverly {
+	padding-top: 130px;
+	padding-bottom: 100px;
+}
+.bannerText h1 {
+    font-size: 65px;
+}
+.bannerText p {
+	font-size: 16px;
+	padding: 0 103px;
+	margin-bottom: 40px;
+}
+#counterPart {
+	padding: 50px 0;
+    text-align: center;
+}
+.counterLeft h3 {
+	padding-right: 0;;
+	padding-bottom: 20px;
+}
+.serviceText p {
+	padding: 0 100px;
+}
+#servicePart {
+	padding: 50px 0;
+}
+.serviceItem {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.recentText p {
+	padding: 0 100px;
+}
+.formBtn a {
+	text-align: center;
+}
+}
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-toggler i{
+        color: #ffffff;
+        font-size: 30px;
+}
+.bannerOverly {
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+.bannerText h1 {
+	font-size: 54px;
+}
+.bannerText p {
+	padding: 0 0;	
+}  
+.counterLeft {
+	text-align: center;
+}
+.counterLeft h3 {
+	padding-right: 0;
+}
+.counterText{
+    text-align: center;
+}
+#counterPart {
+	padding: 20px 0;
+}
+#servicePart {
+	padding: 30px 0;
+}
+.serviceItem {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.recentTextB p {
+	padding: 0 107px;
+	line-height: 25px;
+    padding-bottom: 30px;
+}
+#recentPart {
+	padding: 80px 0;
+}
+.recentText p {
+	padding-bottom: 55px;
+}
+.agencText h3 {
+	padding: 0;
+    padding-bottom: 50px;
+}
+#agencPart {
+	padding-top: 65px;
+}
+.agencText p {
+	font-size: 15px;
+	padding: 0;
+}
+.agencItem{
+    margin-top: 50px;
+}
+.agencTextB p {
+	padding-bottom: 50px;
+}
+.formText h3 {
+	padding-right: 0;
+	text-align: center;
+}
+.formText p {
+	padding-right: 0;
+	text-align: center;
+}
+.formText h5 {
+	padding-right: 0;
+	text-align: center;
+}
+.formBtn a {
+	padding: 10px 142px;
+}
+.formText h3 {
+	padding-top: 65px;
+}
+#fromPart {
+	padding: 0;
+	text-align: center;
+}
+.footerRight h3 {
+	margin-top: 30px;
+}
+#footerPart {
+	padding-top: 65px;
+}
+.contactForm {
+	margin-bottom: 50px;
+}
+} 
+/* Extra small devices  */
+@media (max-width: 575.98px) {
+  .navbar-toggler i{
+    color: #ffffff;
+    font-size: 30px;
+}
+  .navbar-nav {
+	background: rgb(99, 100, 100);
+	text-align: center;
+	border-radius: 20px;
+}
+.contactBtn{
+    margin-top: 10px;
+}
+.bannerOverly {
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+.bannerText h1 {
+	font-size: 36px;
+}
+.bannerText p {
+	font-size: 15px;
+	padding: 0;	
+}
+#counterPart {
+	padding: 25px 0;
+}
+.counterLeft {
+	padding-left: 0;
+	text-align: center;
+}
+.counterLeft h3 {
+	font-size: 30px;
+	padding-right: 0;
+}
+.counterText{
+    text-align: center;
+}
+#servicePart {
+	padding: 0px 0;
+}
+.serviceText h3 {
+	line-height: 45px;
+}
+.serviceItem {
+	margin-bottom: 10px;
+}
+.serviceItem p {
+	font-size: 14px;
+	color: blueviolet;
+}
+.recentText h3 {
+	line-height: 45px;
+}
+#recentPart {
+	padding: 50px 0;
+}
+.recentText p {
+	padding-bottom: 50px;
+}
+.recentTextB p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.agencText h3 {
+	padding: 0;
+}
+#agencPart {
+	padding-top: 50px;
+    padding-bottom: 0px;
+}
+.agencText p {
+    margin-top: 20px;
+	font-size: 15px;
+	padding: 0 15px;
+	padding-bottom: 30px;
+}
+.agencImage{
+    margin-top: 20px;
+}
+.agencItem{
+	text-align: center;
+}
+.agencTextB p {
+	font-size: 15px;
+	padding-right: 0;
+	padding: 0 40px;
+}
+.agencItemB {
+	text-align: center;
+}
+.agencTextB p {
+	padding: 0 30px;
+}
+.agencRightImg{
+    margin-top: 30px;
+}
+.reviewText h3 {
+	margin-top: 30px;
+	line-height: 44px;
+}
+.reviewText p {
+	padding-bottom: 50px;
+}
+.reviewImage img {
+	margin-left: 88px;
+}
+.reviewTextB p {
+    font-size: 15px;
+	padding: 0 0px;
+    text-align: center;
+}
+#reviewPart {
+	padding-bottom: 50px;
+}
+.formText h3 {
+	padding-top: 0;
+}
+#fromPart {
+	padding: 50px 0;
+}
+.formText h3 {
+	font-size: 40px;
+	padding-right: 0;
+	text-align: center;
+}
+.formText p {
+	font-size: 15px;
+	padding-right: 0;
+	text-align: center;
+}
+.formText h5 {
+	font-size: 15px;
+	padding-right: 0;
+	text-align: center;
+}
+#fromPart {
+	padding: 0;
+}
+.formBtn a {
+	padding: 10px 54px;
+    text-align: center;
+}
+#footerPart {
+	padding-top: 50px;
+}
+.footerLeft p {
+	font-size: 15px;
+	padding-right: 0;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.footerRight h3 {
+	padding-bottom: 40px;
+	margin-left: 100px;
+}
+}
